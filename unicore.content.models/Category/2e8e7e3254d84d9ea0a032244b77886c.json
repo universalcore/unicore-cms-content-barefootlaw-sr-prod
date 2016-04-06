@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "2e8e7e3254d84d9ea0a032244b77886c", 
+  "language": "rus_RU", 
+  "title": "\u0417\u043d\u0430\u0439 \u0438 \u0437\u0430\u0449\u0438\u0449\u0430\u0439 \u0441\u0432\u043e\u0438 \u043f\u0440\u0430\u0432\u0430!", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "znaj-i-zashishaj-svoi-prava", 
+  "source": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
